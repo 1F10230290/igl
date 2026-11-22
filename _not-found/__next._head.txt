@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[242,[],"ViewportBoundary"]
+3:I[242,[],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[5943,[],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"IGL - IGC2 GameDev Library"}],["$","meta","1",{"name":"description","content":"ゲーム制作サークルの資料を一元管理するためのポータルです。"}],["$","link","2",{"rel":"icon","href":"/igl/favicon.ico?ea2acea1f642f1e3","type":"image/x-icon","sizes":"256x149"}],["$","link","3",{"rel":"icon","href":"/igl/icon.png?d56f1d484e036c89","type":"image/png","sizes":"1036x1036"}],["$","$L5","4",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"bKpWw0K_saTCow_4b_oKz"}

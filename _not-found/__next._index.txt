@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[1900,["826","static/chunks/826-95f15d3d41f286a9.js","177","static/chunks/app/layout-aa485c897bf77f53.js"],"default"]
+3:I[4443,[],""]
+4:I[8023,[],""]
+:HL["/igl/_next/static/css/0e5d754bcb41f625.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/igl/_next/static/css/0e5d754bcb41f625.css","precedence":"next"}]],["$","html",null,{"lang":"ja","children":["$","body",null,{"className":"__variable_83a5f1 __variable_ea1fd5","children":["$","$L2",null,{"materials":[{"id":"submission-89c71f91-f477-4242-879b-51aec66b1c3d","title":"東京ゲームダンジョンへ出展してみよう！","relatedIds":[]},{"id":"unity-tutorial","title":"Unityチュートリアル","relatedIds":[]}],"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"bKpWw0K_saTCow_4b_oKz"}
